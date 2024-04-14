@@ -1,0 +1,22 @@
+a = [0 for i in range(n)]
+for i in range(n):
+a = [0] * n
+from math import *
+while i * i <= n:
+assert a != 0
+if a ** 2 + b ** 2 == c ** 2:
+def add(u, v):
+while a != 0:
+for x in a:
+elif a == 0 or b == 0:
+a = int(input())
+a, b = map(int, input().split())
+if arr[i] != 0:
+while r - l > 1:
+f = False
+return
+print(a, b, sep="")
+while i * i <= n:
+flag = True
+print(sqrt(a))
+if a % 2 == 0:
